@@ -1,0 +1,21 @@
+---
+client:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.2
+edge:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.3
+inet:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.4
+web:
+    username: 
+    password: 
+    platform: linux
+    hostname: 172.20.20.5
